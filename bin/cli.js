@@ -10,7 +10,7 @@ readContent()
 function requestSearch(content) {
   content = content.trim()
   request
-    .get('http://54.215.144.41:3000/async/search')
+    .get('http://0.0.0.0:3000/async/search')
     .query({ content })
     .end((err, res) => {
       if (err) return console.error(err)
