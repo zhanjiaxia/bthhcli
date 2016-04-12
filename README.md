@@ -30,5 +30,5 @@ __exit__ : 退出
 
 ## 示例
 
-![Bthhcli](./bthhcli.png)
+![Bthhcli](./bthh-cli.png)
 
